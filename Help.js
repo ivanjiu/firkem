@@ -38,5 +38,5 @@ const missing = (arr) => {
 
 let a3 = [1,2,'aaa',{lalwa:"aa"}]
 console.log(a3.unshift(8));
-console.log(a3.push(9));
+console.log(a3.shift())
 console.log(a3);
