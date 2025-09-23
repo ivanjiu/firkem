@@ -189,4 +189,4 @@ const [firstElem, ...rest]=[...db];
 console.log(!undefined)
 console.log("aaa");
 
-console.log("i want to somehow amend this current commit")
+console.log("there was some merge conflict so i removed it and repalce it wiht this text")
