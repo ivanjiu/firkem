@@ -192,3 +192,4 @@ console.log("aaa");
 
 
 console.log("ilin2k03 added some lines here to github");
+console.log("deleted readme file:");
