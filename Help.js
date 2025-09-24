@@ -189,7 +189,4 @@ const [firstElem, ...rest]=[...db];
 console.log(!undefined)
 console.log("aaa");
 
-
-
-console.log("ilin2k03 added some lines here to github");
-console.log("deleted readme file:");
+console.log("there was some merge conflict so i removed it and repalce it wiht this text")
